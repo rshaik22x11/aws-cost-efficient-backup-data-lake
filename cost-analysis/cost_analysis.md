@@ -84,10 +84,11 @@ To restore the database:
 
 # Comparison
 
-| Factor        | Daily Full Backup | Weekly Full + Incremental |
-| Cost          | Higher storage usage | Lower storage usage   |
-| Restore Speed | Moderate          | Faster                   |
-| Operational Complexity | Simple   | Moderate                 |
+| Factor | Daily Full Backup | Weekly Full + Incremental |
+|------|------|------|
+| Cost | Higher storage usage | Lower storage usage |
+| Restore Speed | Moderate | Faster |
+| Operational Complexity | Simple | Moderate |
 
 ---
 
